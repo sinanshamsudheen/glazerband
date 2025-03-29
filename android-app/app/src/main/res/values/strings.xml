@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BandApp</string>
+    <string name="app_description">Women\'s Safety Wristband Application</string>
+    
+    <!-- Common -->
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="error">Error</string>
+    <string name="success">Success</string>
+    
+    <!-- Permissions -->
+    <string name="permission_location_title">Location Permission Required</string>
+    <string name="permission_location_message">BandApp needs location permission to track your position in case of emergency.</string>
+    <string name="permission_bluetooth_title">Bluetooth Permission Required</string>
+    <string name="permission_bluetooth_message">BandApp needs Bluetooth permission to connect with your safety wristband.</string>
+
+    <!-- Navigation -->
+    <string name="home">Home</string>
+    <string name="emergency">Emergency</string>
+    <string name="location">Location</string>
+    <string name="settings">Settings</string>
+
+    <!-- Home Screen -->
+    <string name="quick_actions">Quick Actions</string>
+    <string name="trigger_emergency">Trigger Emergency</string>
+    <string name="manage_contacts">Manage Contacts</string>
+    <string name="device_status">Device Status</string>
+    <string name="bluetooth_status">Bluetooth: Connected</string>
+    <string name="gps_status">GPS: Active</string>
+
+    <!-- Emergency Screen -->
+    <string name="emergency_status">Emergency Status</string>
+    <string name="status_normal">Status: Normal</string>
+    <string name="status_emergency">Status: Emergency</string>
+    <string name="emergency_contacts">Emergency Contacts</string>
+    <string name="last_triggered">Last triggered: Never</string>
+
+    <!-- Location Screen -->
+    <string name="location_tracking">Location Tracking</string>
+    <string name="location_status_active">Status: Active</string>
+    <string name="location_history">Location History</string>
+    <string name="center_location">Center on my location</string>
+
+    <!-- Settings Screen -->
+    <string name="device_settings">Device Settings</string>
+    <string name="offline_mode">Offline Mode</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="gps">GPS</string>
+    <string name="notification_settings">Notification Settings</string>
+    <string name="emergency_notifications">Emergency Notifications</string>
+    <string name="location_updates">Location Updates</string>
+    <string name="about">About</string>
+    <string name="version">Version 1.0.0</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="terms_of_service">Terms of Service</string>
+
+    <!-- Location Tracking -->
+    <string name="location_tracking_active">Location tracking active</string>
+    <string name="location_tracking_inactive">Location tracking inactive</string>
+    <string name="location_permission_required">Location permission is required for tracking</string>
+    <string name="grant_permission">Grant Permission</string>
+    
+    <!-- Emergency -->
+    <string name="emergency_active">Emergency Active</string>
+    <string name="emergency_resolved">Emergency Resolved</string>
+    
+    <!-- Contacts -->
+    <string name="manage_contacts">Manage Emergency Contacts</string>
+    <string name="add_contact">Add Emergency Contact</string>
+    <string name="edit_contact">Edit Emergency Contact</string>
+    <string name="delete_contact">Delete Contact</string>
+    <string name="contact_name">Contact Name</string>
+    <string name="contact_phone">Phone Number</string>
+    <string name="contact_email">Email Address</string>
+    <string name="contact_relationship">Relationship</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    
+    <!-- Settings -->
+    <string name="settings">Settings</string>
+    <string name="offline_mode">Offline Mode</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="gps">GPS</string>
+    <string name="notifications">Notifications</string>
+    <string name="location_update_interval">Location Update Interval</string>
+
+    <!-- Bluetooth -->
+    <string name="bluetooth_disconnected">Bluetooth: Disconnected</string>
+    <string name="bluetooth_scanning">Bluetooth: Scanning for band...</string>
+    <string name="bluetooth_connecting">Bluetooth: Connecting to band...</string>
+    <string name="bluetooth_connected">Bluetooth: Connected</string>
+    <string name="bluetooth_ready">Bluetooth: Ready</string>
+    <string name="bluetooth_not_enabled">Please enable Bluetooth to use this app</string>
+
+    <!-- Health Monitoring -->
+    <string name="heart_rate_initial">Heart Rate: -- BPM</string>
+    <string name="fall_detection_normal">Fall Detection: Normal</string>
+    <string name="fall_detected">Fall Detection: Fall Detected!</string>
+    <string name="fall_detected_emergency">Fall detected! Emergency triggered.</string>
+
+    <!-- Band Settings -->
+    <string name="vibration_settings">Vibration Settings</string>
+    <string name="enable_vibration">Enable Vibration</string>
+    <string name="vibration_intensity">Vibration Intensity</string>
+    <string name="vibration_intensity_format">%d%%</string>
+    
+    <string name="sound_settings">Sound Settings</string>
+    <string name="enable_sound">Enable Sound</string>
+    <string name="sound_volume">Sound Volume</string>
+    <string name="sound_volume_format">%d%%</string>
+    
+    <string name="led_settings">LED Settings</string>
+    <string name="led_brightness">LED Brightness</string>
+    <string name="led_brightness_format">%d%%</string>
+    
+    <string name="not_connected_message">Please connect to the band first</string>
+
+    <string name="scan_button">Start Scan</string>
+    <string name="stop_scan">Stop Scan</string>
+    <string name="scanning">Scanning for devices...</string>
+    <string name="not_scanning">Ready to scan</string>
+    <string name="bluetooth_not_supported">Bluetooth is not supported on this device</string>
+    <string name="location_permission_needed">Location permission is required for Bluetooth scanning</string>
+    <string name="emergency_button">Emergency Signal</string>
+    <string name="location_button">Start Location Tracking</string>
+    <string name="disconnect_button">Disconnect</string>
+    <string name="connection_error">Connection error</string>
+    <string name="device_connected">Connected</string>
+    <string name="device_disconnected">Disconnected</string>
+</resources> 
