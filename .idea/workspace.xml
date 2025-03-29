@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d99854e-1bad-490f-ba5e-e1c883c8ee15" name="Changes" comment="" />
+    <list default="true" id="0d99854e-1bad-490f-ba5e-e1c883c8ee15" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-app/BandApp-Expo" beforeDir="false" afterPath="$PROJECT_DIR$/android-app/BandApp-Expo" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +49,7 @@
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "feature-Abhay",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Abhay/Desktop/BandApp"
+    "last_opened_file_path": "C:/Users/Abhay/Desktop/BandApp/glazerband"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
